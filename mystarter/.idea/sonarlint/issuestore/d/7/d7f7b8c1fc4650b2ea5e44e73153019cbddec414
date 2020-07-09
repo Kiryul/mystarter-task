@@ -1,0 +1,11 @@
+
+>
+java:S1148$"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+R
+java:S1117"7Rename "url" which hides the field declared at line 23.(ÊË™õùÿÿÿÿ
+T
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(×Ë–«ıÿÿÿÿ
+b
+java:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(Ú¼‡
